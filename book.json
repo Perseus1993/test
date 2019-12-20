@@ -1,0 +1,16 @@
+{
+    "plugins": [
+         "back-to-top-button",
+		 "github-buttons"
+    ],
+	"pluginsConfig": {
+    "github-buttons": {
+      "buttons": [{
+        "user": "Perseus1993",
+        "type": "follow",
+        "width": "230",
+        "count": false
+      }]
+    }
+  }
+}
